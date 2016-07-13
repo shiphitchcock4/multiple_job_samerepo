@@ -1,5 +1,5 @@
 jobs:
-  - name: ecstest6
+  - name: ecstest6norml
     type: manifest
     steps:
       - GET: resomuljob-reso16
