@@ -2,13 +2,13 @@ jobs:
   - name: ecstest6yjn
     type: manifest
     steps:
-      - GET: new-image
-      - GET: new-image123
+      - GET: resomuljob-reso26
+      - GET: resomuljob-reso16
       - GET: triggetestp
 
   - name: ecstest6456
     type: manifest
     steps:
-      - GET: new-image
-      - GET: new-image123
+      - GET: resomuljob-reso26
+      - GET: resomuljob-reso16
       - GET: triggetestp
